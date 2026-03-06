@@ -1,2 +1,2 @@
 # Computing-System-Design
-This repository gives purposes on building and testing processors based of CEG courses of the University of Ottawa. VHDL with rtl and structural architecture is the main way of designing here.
+This repository showcases processor design and testing projects aligned with the Computer Engineering (CEG) courses at the University of Ottawa. The hardware is implemented in VHDL, employing RTL and structural design methodologies to model and verify digital architectures.
